@@ -1,0 +1,104 @@
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\bin\Debug\LibSys.exe.config
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\bin\Debug\LibSys.exe
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\bin\Debug\LibSys.pdb
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.csproj.AssemblyReference.cache
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.csproj.SuggestedBindingRedirects.cache
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.LibSys.resources
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.frmLogin.resources
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.frmMain.resources
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.cache
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.csproj.CoreCompileInputs.cache
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.exe
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.pdb
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.RegisterForm.resources
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.Borrower.resources
+D:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\obj\Debug\LibSys.Borrow.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe.config
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\bin\Debug\LibSys.pdb
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.AssemblyReference.cache
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrow.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.LibSys.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmLogin.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmMain.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.RegisterForm.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrower.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.cache
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.CoreCompileInputs.cache
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.exe
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.pdb
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe.config
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\bin\Debug\LibSys.pdb
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.AssemblyReference.cache
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.SuggestedBindingRedirects.cache
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrow.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.LibSys.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmLogin.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmMain.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.RegisterForm.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrower.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.cache
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.CoreCompileInputs.cache
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.exe
+E:\LABRADOR, JULES IRWIN - BSIT 3A\LibSys\LibSys\LibSys\obj\Debug\LibSys.pdb
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.ReturnBook.resources
+C:\Users\jilab\OneDrive\Documents\Irwin\3rd Year\1st SEM\IMDBYSYS\LibSys\LibSys\LibSys\obj\Debug\LibSys.Users.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.AssemblyReference.cache
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrow.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.LibSys.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmLogin.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmMain.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.RegisterForm.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrower.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.ReturnBook.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.Users.resources
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.cache
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.CoreCompileInputs.cache
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.exe
+C:\Users\baisr\Downloads\LibSys\LibSys\LibSys\obj\Debug\LibSys.pdb
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.AssemblyReference.cache
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrow.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.LibSys.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmLogin.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmMain.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.RegisterForm.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrower.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.ReturnBook.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.Users.resources
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.cache
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.CoreCompileInputs.cache
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.exe
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\obj\Debug\LibSys.pdb
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe.config
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe
+C:\Users\baisr\OneDrive\Desktop\LibSys\LibSys\LibSys\bin\Debug\LibSys.pdb
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe.config
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\bin\Debug\LibSys.pdb
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.AssemblyReference.cache
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrow.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.LibSys.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmLogin.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.frmMain.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.RegisterForm.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.Borrower.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.ReturnBook.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.Users.resources
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.cache
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.csproj.CoreCompileInputs.cache
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.exe
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.pdb
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\bin\Debug\LibSys.exe.manifest
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\bin\Debug\LibSys.application
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.exe.manifest
+C:\Users\baisr\OneDrive\Documents\3B Subjects\IMDBYSYS31\BAIS_RANIE\FinalLibsys\LibSys\LibSys\LibSys\obj\Debug\LibSys.application
